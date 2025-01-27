@@ -270,13 +270,13 @@ button{
 
 .numbers{
     position: relative;
-    background-image: url("home.jepg.jpeg");
+    background-image: url(home.jepg.jpeg);
     height: 300px;
     background-size: cover;
     background-attachment: fixed;
 }
 .numbers1{
-    position: relative;background-image: url("background2.jpg");height: 300px;background-size: cover;background-attachment: fixed;
+    position: relative;background-image: url(background2.jpg);height: 300px;background-size: cover;background-attachment: fixed;
 }
 
 .contct{
